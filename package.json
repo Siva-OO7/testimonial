@@ -1,0 +1,14 @@
+{
+  "name": "testimonials-grid-section-main",
+  "version": "1.0.0",
+  "description": "It's a tailwindcss project by using grid",
+  "main": "index.html",
+  "scripts": {
+    "build": " npx tailwindcss -i ./input.css -o ./css/output.css --watch"
+  },
+  "author": "__siva007",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
